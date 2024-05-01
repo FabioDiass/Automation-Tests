@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cypress": "^13.8.1"
+  },
+
+  "scripts": {
+    "run": "npx cypress run",
+    "open": "npx cypress open"
+  }
+}
